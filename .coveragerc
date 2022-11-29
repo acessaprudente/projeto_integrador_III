@@ -1,0 +1,25 @@
+[run]
+source = .
+
+omit =
+    */__init__.py
+    */settings.py
+    */manage.py
+    */wsgi.py
+    */apps.py
+    */urls.py
+    */admin.py
+    */migrations/*
+    */venv/*
+    */acessaprudente/asgi.py
+    */avaliacoes/tests.py  
+    */comentarios/tests.py
+    */core/tests.py  
+    */enderecos/tests.py 
+    */acessibilidade/tests.py 
+    */atracoes/tests.py  
+    */acessibilidade/views.py 
+    */atracoes/views.py 
+    */avaliacoes/views.py 
+    */comentarios/views.py 
+    */enderecos/views.py 
